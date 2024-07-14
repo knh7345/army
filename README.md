@@ -1,2 +1,2 @@
-# army
-군대에서 공부하는 공대생
+# Cyber Knowledge Information Room
+I am an engineering student studying in the military
